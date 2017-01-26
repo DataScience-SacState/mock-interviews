@@ -1,0 +1,75 @@
+{
+  "Mocks-1": [
+    {
+      "id": 136,
+      "title": "Single Number",
+      "title_slug": "single-number"
+    },
+    {
+      "id": 242,
+      "title": "Valid Anagram",
+      "title_slug": "valid-anagram"
+    },
+    {
+      "id": 349,
+      "title": "Intersection of Two Arrays",
+      "title_slug": "intersection-of-two-arrays"
+    },
+    {
+      "id": 387,
+      "title": "First Unique Character in a String",
+      "title_slug": "first-unique-character-in-a-string"
+    },
+    {
+      "id": 412,
+      "title": "Fizz Buzz",
+      "title_slug": "fizz-buzz"
+    }
+  ],
+  "Mocks-2": [
+    {
+      "id": 69,
+      "title": "Sqrt(x)",
+      "title_slug": "sqrtx"
+    },
+    {
+      "id": 448,
+      "title": "Find All Numbers Disappeared in an Array",
+      "title_slug": "find-all-numbers-disappeared-in-an-array"
+    },
+    {
+      "id": 485,
+      "title": "Max Consecutive Ones",
+      "title_slug": "max-consecutive-ones"
+    }
+  ],
+  "Mocks-3": [
+    {
+      "id": 162,
+      "title": "Find Peak Element",
+      "title_slug": "find-peak-element"
+    },
+    {
+      "id": 448,
+      "title": "Find All Numbers Disappeared in an Array",
+      "title_slug": "find-all-numbers-disappeared-in-an-array"
+    }
+  ],
+  "Mocks-4": [
+    {
+      "id": 33,
+      "title": "Search in Rotated Sorted Array",
+      "title_slug": "search-in-rotated-sorted-array"
+    },
+    {
+      "id": 136,
+      "title": "Single Number",
+      "title_slug": "single-number"
+    },
+    {
+      "id": 455,
+      "title": "Assign Cookies",
+      "title_slug": "assign-cookies"
+    }
+  ]
+}
