@@ -5,18 +5,17 @@
 def nonRepeating(word):
     ht = {}
     ind = -1
-    listOut = []
 
-    for i in word:
-        if i not in ht:
-            ht[i] = 1
+    for c in word:
+        if c not in ht:
+            ht[c] = 1
         else:
-            ht[i] += 1
+            ht[c] += 1
 
-    for j in word:
-        ht[j] -= 1
-        if ht[j] == 0:
-            return  word.index(j)
+    for c in word:
+        ht[c] -= 1
+        if ht[c] == 0:
+            return  word.index(c)
         else:
             pass
     return -1

@@ -7,11 +7,12 @@ def maxConsec(l):
     for i in l:
         if (i != 0):
             sumr += 1
-            maxn = sumr
+            if sumr > maxn:
+                maxn = sumr
         else:
             sumr = 0
     return maxn
 
-l = [1,1,0,1,1,1]
+l = [1,1,0,1,1,1,0,1 ,1, ]
 
 print(maxConsec(l))
